@@ -1,0 +1,32 @@
+body {
+
+    background-color: bisque;
+
+}
+
+
+
+h1 {
+
+    font-family: fantasy;
+
+    font-size: 2rem;
+
+    text-align: center;
+
+}
+
+
+
+.caja {
+
+    width: 300px;
+
+    height: 300px;
+
+    background-color: green;
+
+}
+
+
+
